@@ -32,5 +32,5 @@
 
 <h3 align="center">Stats:</h3>
 <p align="center" style="text-align: center; ">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=prdanelli&show_icons=true&locale=en" alt="prdanelli" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prdanelli&show_icons=true&count_private=true&theme=nord&hide_border=true" width="800">
 </p>
