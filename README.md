@@ -3,8 +3,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/prdanelli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prdanelli" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/prdanelli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="prdanelli" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/paulalden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/3588645/paul-alden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stackoverflow" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -32,5 +32,5 @@
 
 <h3 align="center">Stats:</h3>
 <p align="center" style="text-align: center; ">
-  <img src="https://github-readme-stats.vercel.app/api?username=prdanelli&show_icons=true&count_private=true&theme=nord&hide_border=true" width="800">
+  <img src="https://github-readme-stats.vercel.app/api?username=paulalden&show_icons=true&count_private=true&theme=nord&hide_border=true" width="800">
 </p>
